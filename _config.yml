@@ -21,7 +21,8 @@ title                    : "Welcome To Shreeyash Kavhale's Portfolio !"
 title_separator          : "-"
 subtitle                 : # site tagline that appears below site title in masthead
 name                     : "Shreeyash Kavhale"
-description              : "An amazing website."
+description              : "Economics graduate with a sharp edge in data analytics, financial modeling, and strategic planning. I blend academic excellence with hands-on experience in business development, dashboarding, and investor research. Fluent in Python, R, Power BI, and storytelling through data. Passionate about building trust-driven brands and solving real-world problems with elegant execution.
+"
 url                      : # the base hostname & protocol for your site e.g. "https://Shreeyash_Kavhale.github.io"
 baseurl                  : # the subpath of your site, e.g. "/blog"
 repository               : # GitHub username/repo-name e.g. "Shreeyash/Kavhale"
