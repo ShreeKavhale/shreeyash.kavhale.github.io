@@ -20,6 +20,7 @@ breadcrumbs              : false
 words_per_minute         : 200
 
 <!-- Header navigation tabs -->
+title: "My Site"
 <nav>
   <ul style="display: flex; list-style-type: none; padding: 0; margin: 0; gap: 1.5rem; background: #222; color: #fff;">
     <li><a href="#home" style="color: #fff; text-decoration: none; padding: 1rem 1.5rem; display: block;">Home</a></li>
@@ -28,7 +29,7 @@ words_per_minute         : 200
     <li><a href="#contact" style="color: #fff; text-decoration: none; padding: 1rem 1.5rem; display: block;">Contact</a></li>
   </ul>
 </nav>
-title: "My Site"   # ✅ correct
+title: "My Site"   
 
 # Social Sharing
 twitter:
