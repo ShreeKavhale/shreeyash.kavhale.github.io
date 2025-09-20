@@ -52,7 +52,7 @@ comments:
 title: My Site
 description: Welcome!
 show_downloads: true
-    repo_id              : # Shown during giscus setup at https://giscus.app
+    repo_id              :  Shown during giscus setup at https://giscus.app
     category_name        : # Full text name of the category
     category_id          : # Shown during giscus setup at https://giscus.app
     discussion_term      : # "pathname" (default), "url", "title", "og:title"
