@@ -23,11 +23,11 @@ subtitle                 : # site tagline that appears below site title in masth
 name                     : "Shreeyash Kavhale"
 description              : "Economics graduate with a sharp edge in data analytics, financial modeling, and strategic planning. I blend academic excellence with hands-on experience in business development, dashboarding, and investor research. Fluent in Python, R, Power BI, and storytelling through data. Passionate about building trust-driven brands and solving real-world problems with elegant execution.
 "
-url                      : # the base hostname & protocol for your site e.g. "https://Shreeyash_Kavhale.github.io"
+url                      : "https://Shreeyash_Kavhale.github.io"
 baseurl                  : # the subpath of your site, e.g. "/blog"
 repository               : # GitHub username/repo-name e.g. "Shreeyash/Kavhale"
 teaser                   : # path of fallback teaser image, e.g. "/assets/images/500x300.png"
-logo                     : # path of logo image to display in the masthead, e.g. "/assets/images/88x88.png"
+logo                     : "/assets/images/88x88.png"
 masthead_title           : # overrides the website title displayed in the masthead, use " " for no title
 breadcrumbs              : # true, false (default)
 words_per_minute         : 200
