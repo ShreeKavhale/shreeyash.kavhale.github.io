@@ -1,1 +1,107 @@
+# Website Section Requirements
 
+## 1. About Me
+**Content:**
+- Brief introduction (1-2 paragraphs) about yourself
+- Academic background (degree, institution)
+- Key interests and values
+- Professional summary (1-2 lines)
+- Profile photo
+
+**Features:**
+- Prominently placed (first/landing section)
+- Clean, professional photo
+- Optionally, a download link for your resume
+
+---
+
+## 2. Qualifications
+**Content:**
+- Educational qualifications (degree, university, years, achievements)
+- Certifications (name, issuing body, year)
+- Key skills (bulleted or tag-style list)
+- Scholarships, awards, honors
+
+**Features:**
+- Timeline or list format
+- Badges/icons for universities/certifications (optional)
+
+---
+
+## 3. Experience
+**Content:**
+- Professional experience (role, organization, duration)
+- Brief description of responsibilities/achievements for each
+- Internships, part-time work, research assistantships, etc.
+
+**Features:**
+- Chronological timeline or cards for each experience
+- Company logos (optional)
+- "Read more" expandable details (optional)
+
+---
+
+## 4. Projects
+**Content:**
+- List of key projects (academic, professional, personal)
+- For each project: Title, brief description, technologies used, your role
+- Links to GitHub repos, live demos, papers, or portfolios
+
+**Features:**
+- Grid or card layout for projects
+- Filter by type (personal, academic, etc.) (optional)
+- Screenshots or thumbnails (optional)
+
+---
+
+## 5. Extra Curricular
+**Content:**
+- Activities outside academics/profession (clubs, competitions, volunteering, sports, arts, etc.)
+- Leadership roles, memberships, notable achievements
+- Brief descriptions, dates
+
+**Features:**
+- List or timeline format
+- Icons for types of activities (optional)
+
+---
+
+## 6. Contact Me (Form)
+**Content:**
+- Simple form: Name, Email, Message
+- Optionally, subject field
+- Your email address for receiving submissions
+
+**Features:**
+- Embedded form (use a service like Formspree, Google Forms, or Netlify Forms since GitHub Pages doesn’t support server-side processing)
+- Confirmation message after submission
+- Links to social profiles (GitHub, LinkedIn, Instagram, etc.)
+- Optionally, a map/location
+
+---
+
+## General/Design Considerations
+- Navigation bar with links to all sections
+- Consistent color scheme and typography
+- Mobile-responsive design
+- Footer with copyright and social links
+
+---
+
+### Jekyll/Minimal Mistakes Implementation Notes
+
+- Each section can be a separate Markdown file in `_pages` or `_includes` and referenced in your layout.
+- Projects and Experience can use data files (`_data/`) or collections for easier management.
+- Contact form will need an external service for submissions.
+- Update navigation in `_data/navigation.yml` to reflect new sections.
+
+---
+
+## Next Steps
+
+1. Draft content for each section following the above structure.
+2. Decide on any extra features (like filters, images, etc.).
+3. Update your Jekyll configuration and navigation to include these sections.
+4. (If needed) Choose and set up a contact form service.
+
+Let me know if you want templates or markdown examples for any of the sections!
