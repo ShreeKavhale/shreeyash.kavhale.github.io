@@ -7,3 +7,13 @@ search: false
 
 @import "minimal-mistakes/skins/{{ site.minimal_mistakes_skin | default: 'default' }}"; // skin
 @import "minimal-mistakes"; // main partials
+
+.profile-pic {
+  width: 250px;        /* or any large value you want */
+  height: 250px;
+  object-fit: cover;
+  border-radius: 50%;  /* Makes it a circle */
+  display: block;
+  margin: 0 auto;      /* Center the image */
+  box-shadow: 0 2px 8px rgba(0,0,0,0.15); /* Optional: adds a subtle shadow */
+}
