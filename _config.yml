@@ -48,7 +48,10 @@ comments:
   utterances:
     theme                : # "github-light" (default), "github-dark"
     issue_term           : # "pathname" (default)
-  giscus:
+  giscus                 :theme: minima
+title: My Site
+description: Welcome!
+show_downloads: true
     repo_id              : # Shown during giscus setup at https://giscus.app
     category_name        : # Full text name of the category
     category_id          : # Shown during giscus setup at https://giscus.app
