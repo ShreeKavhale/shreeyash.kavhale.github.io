@@ -1,6 +1,6 @@
-title: "Shreeyash Kavhale"
+title: "Welcome To Shreeyash Kavhale's Portfolio !"
 name: "Shreeyash Kavhale"
-description: "Economics Graduate | Financial Analyst | Aspiring Investment Banker"
+description: "Economist | Data Analyst "
 url: "https://shreekavhale.github.io"
 
 # Social links
