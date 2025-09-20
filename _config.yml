@@ -28,7 +28,7 @@ words_per_minute         : 200
     <li><a href="#contact" style="color: #fff; text-decoration: none; padding: 1rem 1.5rem; display: block;">Contact</a></li>
   </ul>
 </nav>
-
+title: "My Site"   # ✅ correct
 
 # Social Sharing
 twitter:
