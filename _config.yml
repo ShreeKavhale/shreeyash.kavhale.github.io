@@ -14,7 +14,7 @@ description              : "Economics Masters student with a sharp edge in data 
 url                      : "https://shreekavhale.github.io"
 baseurl                  : "" # No subpath for main site
 repository               : "ShreeKavhale/shreekavhale.github.io"
-logo                     : "/assets/images/1000244292.jpg"
+logo                     : "assets/1000244292.jpg"
 masthead_title           : "Shreeyash Kavhale"
 breadcrumbs              : false
 words_per_minute         : 200
@@ -26,7 +26,7 @@ facebook:
   username: "your_facebook_username"
   app_id:
   publisher:
-og_image: "/assets/images/1000244292.jpg"
+og_image: "assets/1000244292.jpg"
 social:
   type: "Person"
   name: "Shreeyash Kavhale"
@@ -47,7 +47,7 @@ social:
 # Site Author
 author:
   name: "Shreeyash Kavhale"
-  avatar: "/assets/images/1000244292.jpg"
+  avatar: "assets/1000244292.jpg"
   bio: "Economics graduate with a sharp edge in data analytics, financial modeling, and strategic planning."
   location: "Pune, India"
   email: "shreeyash.kavhale.2024@sse.ac.in"
