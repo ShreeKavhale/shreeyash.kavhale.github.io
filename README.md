@@ -1,21 +1,95 @@
-title: "Welcome To Shreeyash Kavhale's Portfolio !"
-name: "Shreeyash Kavhale"
-description: "Economist | Data Analyst "
-url: "https://shreekavhale.github.io"
+Welcome to my portfolio 
+ 
+<!-- About Me Section -->
+<section id="about">
+  <h2>About Me</h2>
+  <p>Economics graduate with a sharp edge in data analytics, financial modeling, and strategic planning. I blend academic excellence with hands-on experience in business development, dashboarding, and investment strategy.
+    </p>.</p>
+</section>
 
-# Social links
-author:
-  name: "Shreeyash Kavhale"
-  avatar: "/assets/1000244292.png"   # upload your photo to assets/images/
-  bio: "Master’s student in Economics, passionate about finance, investment banking, and data-driven decision making."
-  location: "India"
-  links:
-    - label: "Email"
-      icon: "fas fa-envelope"
-      url: "mailto:your-email@gmail.com"
-    - label: "LinkedIn"
-      icon: "fab fa-linkedin"
-      url: "https://linkedin.com/in/yourprofile"
-    - label: "GitHub"
-      icon: "fab fa-github"
-      url: "https://github.com/ShreeKavhale"
+<!-- Education Section -->
+<section id="education">
+  <h2>Education</h2>
+  <ul>
+    <li><strong>M.Sc. Economics (Data Analytics)</strong>, currently pursuing a Master of Science in Economics with a specialization in Data Analytics from the prestigious Symbiosis School of Economics, Symbiosis International University, Pune (2024–2026).</li>
+    <li><strong>B.A. in Economics</strong>, holds a Bachelor of Arts in Economics from Modern College of Arts, Science & Commerce, Pune-05 (2021–2024), graduating with an impressive CGPA of 8.5+.</li>
+  </ul>
+</section>
+
+<!-- Experience Section -->
+<section id="experience">
+  <h2>Experience</h2>
+  <ul>
+    <li><strong>Krushi Youth Orga-Tech, Pune</strong> 
+      <ul>
+        <li>Market Research & Analysis: Conducted in-depth studies on agri-tech trends, competitor positioning, and consumer behavior to identify growth opportunities.</li>
+        <li>Business Strategy Development: Collaborated on refining the startup’s value proposition of $55,000 USD, pricing models, and expansion roadmap tailored to rural and semi-urban markets.</li>
+        <li>Financial Modeling: Built cost-yield frameworks and ROI projections for smart farming solutions, integrating real-time data and seasonal variables.</li>
+        <li>Stakeholder Engagement: Supported outreach efforts with farmers, vendors, and institutional partners to build trust and drive adoption.</li>
+        <li>Pitch Deck & Branding Support: Contributed to investor presentations and brand storytelling, aligning the company’s mission with scalable impact.</li>
+        <li>This internship sharpened my ability to apply economic theory and data analytics to real-world challenges, especially in the context of sustainable agriculture and rural entrepreneurship.</li>
+      </ul>
+    </li>
+  </ul>
+</section>
+
+<!-- Projects Section -->
+<section id="projects">
+  <h2>Projects</h2>
+  <ul>
+  
+  <ul>
+    <li>📊 Investor Sentiments & Investment Decision (Sep 2024)
+      <ul>
+        <li>Explored psychological and behavioral factors—herding behavior, media influence, and social buzz—shaping investment decisions in financial markets.</li>
+        <li>Utilized R Bibliometrics and Biblioshiny for network analysis of academic literature and sentiment trends.</li>
+        <li>Mapped correlations between investor mood shifts and market volatility, highlighting the role of non-fundamental signals in asset pricing.</li>
+        <li>Offered insights into how sentiment-driven investing can distort rational expectations and create bubbles or crashes.</li>
+      </ul>
+    </li>
+    <li>📈 Analysis of GDP, Policy Intervention & Economic Equilibrium (Nov 2024)
+      <ul>
+        <li>Examined the interplay between national income, fiscal-monetary policy, and equilibrium outcomes.</li>
+        <li>Sourced data from RBI, MoSPI, and NSSO to analyze trends in GDP growth, inflation, and interest rates.</li>
+        <li>Assessed the impact of policy interventions—such as repo rate changes and stimulus packages—on aggregate demand and supply.</li>
+        <li>Modeled equilibrium shifts using classical and Keynesian frameworks, offering policy recommendations for inclusive growth.</li>
+      </ul>
+    </li>
+    <li>📡 Reliance Jio Pricing Strategy – Limit Pricing Theory (Apr 2025)
+      <ul>
+        <li>Applied Bain’s Limit Pricing Theory to Reliance Jio’s market entry and disruption.</li>
+        <li>Analyzed Jio’s pre-launch groundwork, aggressive pricing, and bundled offerings that deterred competition.</li>
+        <li>Evaluated consumer acquisition, retention, and market consolidation through game-theoretic lenses.</li>
+        <li>Demonstrated how limit pricing can be a calculated tool to establish dominance in saturated telecom markets.</li>
+      </ul>
+  </ul>
+</section>
+
+<!-- Certificates Section -->
+<section id="certificates">
+  <h2>Certificates</h2>
+  <ul>
+     <li>- Python Programming – University of Pennsylvania (2025): Built a strong foundation in Python syntax, control structures, and object-oriented programming, enabling scalable and efficient coding for data-driven applications.</li>
+    <li>- Data Science in Python – University of Michigan (2025): Mastered data manipulation, statistical analysis, and visualization using libraries like Pandas, NumPy, and Matplotlib. Applied real-world datasets to uncover insights and build predictive models.</li>
+    <li>- Advanced Excel – YCMOU (2023): Developed advanced spreadsheet skills including dynamic dashboards, financial modeling, and automation using formulas and pivot tables—essential for business analytics and decision support.</li>
+    
+</section>
+
+<!-- Extra Curricular Activities Section -->
+<section id="extra-curricular">
+  <h2> Extra Curricular </h2>
+  <ul>
+    <li>🏅 Planning Forum Gold Medalist – MCASC-05 (2023): Awarded the prestigious Gold Medal for outstanding contribution to the Planning Forum, recognizing academic excellence, strategic thinking, and commitment to economic discourse.</li>
+    <li>🖥️ Cosmos Youth Event – PowerPoint Presentation Winner (2024): Secured 1st place for delivering a high-impact presentation that combined data storytelling, visual design, and persuasive communication. My work stood out for its clarity, structure, and ability to engage.</li>
+    <li>👗 “Darpan” Series – Model & Show Stopper Awardee (2024): Celebrated for confident presence and aesthetic finesse in the “Darpan” cultural series. Winning the Show Stopper title reflects the flair for presentation, elegance, and personal branding—qualities valuable for leadership and outreach.</li>
+    <li>🎓 Managing Head – Arthotsav, Annual Economics Fest (2024): Led the flagship departmental fest with precision and creativity, overseeing planning, logistics, sponsorships, and team coordination. My leadership ensured a successful, intellectually vibrant event.</li>
+
+  </ul>
+</section>
+
+<!-- Contact Me Section -->
+<section id="contact">
+  <h2>For getting connected, drop a mail </h2>
+  <p>Email: <a href="mailto:shreeyash.kavhale.2024@sse.ac.in">shreeyash.kavhale.2024@sse.ac.in</a></p>
+  <!-- You can add a contact form or social links here -->
+</section>
