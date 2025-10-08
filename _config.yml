@@ -13,7 +13,7 @@ name                     : "Shreeyash Kavhale"
 description              : "Economics Masters student with a sharp edge in data analytics, financial modeling, and strategic planning. I blend academic excellence with hands-on experience in business development, dashboarding, and investor research. Fluent in Python, R, Power BI, and storytelling through data. Passionate about building trust-driven brands and solving real-world problems with elegant execution."
 url                      : "https://shreekavhale.github.io"
 baseurl                  : "" # No subpath for main site
-repository               : "ShreeKavhale/shreekavhale.github.io"
+repository               : "ShreeKavhale/shreeyash.kavhale.github.io"
 logo                     : "assets/1000244292.jpg"
 masthead_title           : "Shreeyash Kavhale"
 breadcrumbs              : false
