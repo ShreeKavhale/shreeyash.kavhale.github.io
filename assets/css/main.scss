@@ -2,7 +2,26 @@
 # Only the main Sass file needs front matter (the dashes are enough)
 search: false
 ---
-
+.tab-nav {
+  display: flex;
+  gap: 16px;
+  justify-content: center;
+  background: #f5f5f5;
+  padding: 12px 0;
+  border-bottom: 1px solid #ddd;
+}
+.tab-link {
+  text-decoration: none;
+  color: #333;
+  font-weight: bold;
+  padding: 8px 20px;
+  border-radius: 25px;
+  transition: background 0.2s, color 0.2s;
+}
+.tab-link:hover {
+  background: #333;
+  color: #fff;
+}
 @charset "utf-8";
 
 @import "minimal-mistakes/skins/{{ site.minimal_mistakes_skin | default: 'default' }}"; // skin
