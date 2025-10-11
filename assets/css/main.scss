@@ -9,13 +9,14 @@ search: false
 @import "minimal-mistakes"; // main partials
 
 .profile-pic {
-  width: 250px;        /* or any large value you want */
-  height: 250px;
+  width: 200px;        /* or any large value you want */
+  height: 220px;
   object-fit: cover;
   border-radius: 50%;  /* Makes it a circle */
+  border: 4px solid #ccc;
   display: block;
   margin: 0 auto;      /* Center the image */
-  box-shadow: 0 2px 8px rgba(0,0,0,0.15); /* Optional: adds a subtle shadow */
+  box-shadow: 0 2px 8px rgba(0,0,0,0.1); /* Optional: adds a subtle shadow */
 }
 
 
